@@ -5,7 +5,7 @@ It allows users to register, login, manage movies, and create a personal movie w
 
 ## Features
 
-- User registration and login
+- User registration, login and logout
 - Authentication middleware
 - Add movies
 - View movies
