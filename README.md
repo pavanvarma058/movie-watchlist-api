@@ -1,7 +1,7 @@
 # Movie WatchList API
 
 Movie WatchList API is a backend REST API built with Node.js, Express.js, PostgreSQL, Neon, and Prisma.  
-It allows users to register, login, manage movies, and create a personal movie watchlist.
+It allows users to register, login, logout, manage movies, and create a personal movie watchlist.
 
 ## Features
 
